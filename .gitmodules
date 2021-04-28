@@ -1,3 +1,6 @@
 [submodule "lib/child"]
 	path = lib/child
 	url = https://github.com/noccer/submodule-child
+[submodule "lib/klone"]
+	path = lib/klone
+	url = https://github.com/noccer/submodule-klone
