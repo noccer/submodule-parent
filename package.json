@@ -1,0 +1,24 @@
+{
+  "name": "parent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "clone": "./build-tools/cloner.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noccer/submodule-parent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENCED",
+  "private": "true",
+  "bugs": {
+    "url": "https://github.com/noccer/submodule-parent/issues"
+  },
+  "homepage": "https://github.com/noccer/submodule-parent#readme"
+}
